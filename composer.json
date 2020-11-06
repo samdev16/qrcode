@@ -1,0 +1,14 @@
+{
+    "name": "vendor/qrcode",
+    "description": "qrcode",
+    "authors": [
+        {
+            "name": "Andre SAM",
+            "email": "andre@andrevlopes.com"
+        }
+    ],
+    "require": {
+    	"php": "^7.4",
+		"chillerlan/php-qrcode": "dev-main"
+    }
+}

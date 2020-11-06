@@ -1,0 +1,64 @@
+// Extra small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+
+
+
+.formulario input{
+	margin:8px 0;
+}
+
+.conteudo{
+	margin-top: 80px;
+}
+
+.titulo{
+	font-family: 'Sansita Swashed', cursive;
+}
+
+
+.custom{
+
+	    padding: 37px 15px;
+	    background: #F8F9FA;
+	    
+}
+
+.custom img{
+	border: solid 1px green;
+	
+}
+
+.topo{
+	
+
+}
+
+.banner{
+	margin-top: 15px;
+	padding: 25px 10px;
+	
+}
+
+.rodape{
+	padding: 20px;
+	background: #ccc;
+}
+
+.rodape p{
+	margin:20px 0 0 0;
+	padding: 15px 0 5px 15px;
+	font-size: 16px;
+	color: #fff;
+}
